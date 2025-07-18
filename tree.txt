@@ -1,0 +1,7 @@
+.
+├── README.md
+├── plan.md
+├── requirements.txt
+└── tree.txt
+
+1 directory, 4 files
